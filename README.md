@@ -1,6 +1,3 @@
-# shopify-compliance-assessment
-A compliance study of Shopify
-
 # Corporate Governance & Compliance Study: Shopify Inc.
 
 ## Executive Summary
